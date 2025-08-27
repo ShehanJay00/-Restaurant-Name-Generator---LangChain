@@ -1,3 +1,5 @@
 .env
 Api.txt
+venv/
+.my_project_env/
 
