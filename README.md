@@ -1,4 +1,4 @@
-# -Restaurant-Name-Generator---LangChain
+# Restaurant-Name-Generator-LangChain
 
 This project is an **AI-powered Restaurant Name & Menu Generator** built with **LangChain**, **Streamlit**, **OpenAI API**, and **Google API**.  
 
